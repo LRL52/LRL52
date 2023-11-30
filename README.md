@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CS&ES.
 - 👯 I’m looking to collaborate on anyone who is willing to cooperate.
 - 🤔 I’m looking for help with [YEWPO](https://github.com/YEWPO).
-- 📫 How to reach me: 525687841@qq.com.
+- 📫 How to reach me: admin@lrl52.top.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LRL52&show_icons=true" />
