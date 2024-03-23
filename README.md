@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on quadcopter drones.
+- 🔭 I’m currently working on CXL (memory pooling and sharing), Disaggregated memory system, Kernel scheduling.
 - 🌱 I’m currently learning CS&ES.
 - 👯 I’m looking to collaborate on anyone who is willing to cooperate.
 - 🤔 I’m looking for help with [YEWPO](https://github.com/YEWPO).
