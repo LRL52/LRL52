@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### 🎯 Github Stats
 
-<img align="" height="225px" src="https://github-readme-stats.vercel.app/api?username=LRL52&show_icon=true&theme=ambient_gradient&hide_border=true&count_private=true" /><img align="" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRL52&layout=compact&langs_count=10&theme=ambient_gradient&hide_border=true&count_private=true" />
+<img align="" height="225px" src="https://github-readme-stats-jason-xy.vercel.app/api?username=LRL52&show_icon=true&theme=dracula&hide_border=true&count_private=true" /><img align="" height="225px" src="https://github-readme-stats-jason-xy.vercel.app/api/top-langs/?username=LRL52&layout=compact&langs_count=10&theme=dracula&hide_border=true&count_private=true" />
