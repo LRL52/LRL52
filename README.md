@@ -11,11 +11,11 @@ Welcome to my GitHub profile!
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on CXL memory, storage systems and operating systems (Linux kernel development).
-- 🌱 I’m interested in CS (~~Computer Systems❌~~ Computer Science✅).
+- 🔭 My research areas currently focus on **operating systems, eBPF, and memory disaggregation**. 
+- 🌱 I'm also passionate about **quantitative trading, deep reinforcement learning, and LLM inference optimization**
 - 👯 I’m looking to collaborate on anyone who is willing to cooperate.
 - 🤔 I’m looking for help with [YEWPO](https://github.com/YEWPO).
-- 📫 How to reach me: admin@lrl52.top.
+- 📫 How to reach me: liu-rl25@mails.tsinghua.edu.cn or admin@lrl52.top.
 
 ### 🎯 Github Stats
 
